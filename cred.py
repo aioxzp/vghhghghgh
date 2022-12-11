@@ -1,16 +1,16 @@
 #Twilio Details
 
-account_sid = 'AC16a948c3a950e25dd8e6060f87cf8172'
-auth_token = 'bf4c4b21871f154475dd6a2b70d40036'
-twilionumber = '+19108124952'
-twiliosmsnumber = '+19108124952'
+account_sid = 'AC1dc3412dea322530693b9588d54f4ebe'
+auth_token = '672f1116622f3ff9243ba435af4ae4bf'
+twilionumber = '+1726204596617262045966'
+twiliosmsnumber = '+17262045966'
 
 #FC Bot
 API_TOKEN = "5836738439:AAHcXv4yStAxil7wFUnYqBUgE3hKoLhZWvI"
 
 #Host URL
-callurl = 'https://a3702bf898c2.ngrok.io'
-twiliosmsurl = 'https://a3702bf898c2.ngrok.io/sms'
+callurl = 'https://octopus-app-4n55h.ondigitalocean.app'
+twiliosmsurl = 'https://octopus-app-4n55h.ondigitalocean.app/sms'
 
 
 
